@@ -1,3 +1,3 @@
 ## v1.1.0
-   - We changed the content of the introduction and history files to provide more context and background information.
-   - We did some conflict resolution in docs/collaboration.md via GitHub and Git in this terminal, we made some pull resquests and resolved conflicts.
+- Updated the project introduction and history documents to provide clearer context and more detailed background information.
+- Resolved a merge conflict in the collaboration document to ensure consistent team alignment and trust.
